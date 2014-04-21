@@ -1,0 +1,26 @@
+{
+  "name": "ng-secure",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asafdav/ng-secure",
+  "authors": [
+    "Asaf David <asafdav@gmail.com>",
+    "Uri Goldshtein <uri.goldshtein@gmail.com>"
+  ],
+  "description": "Authentication layer for AngularJS",
+  "dependencies": {
+    "ngstorage": ">= 0.3.0"
+  },
+  "keywords": [
+    "authentication",
+    "Security",
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
